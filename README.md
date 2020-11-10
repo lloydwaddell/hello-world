@@ -2,4 +2,4 @@
 
 this is a test
 line three removed
-rebase a undo
+rebase b
