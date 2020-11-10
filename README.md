@@ -2,5 +2,4 @@
 
 this is a test
 line three removed
-rebase a commit
-rebase b commit
+rebase a undo
